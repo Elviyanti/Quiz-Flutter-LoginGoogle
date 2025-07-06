@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # quiz
 
 A new Flutter project.
@@ -50,4 +49,4 @@ This Flutter application demonstrates how to implement **Google Sign-In authenti
 | Provider / Bloc / GetX (optional) | State management for theme and user auth |
 | Google Sign-In | OAuth sign-in flow                       |
 | SharedPreferences (optional) | Store selected theme mode persistently |
->>>>>>> 4be17946930738c7386e909a2b1015bdcf715e48
+
